@@ -2,6 +2,8 @@
 
 Read, search, copy, and export timestamped caption tracks beside a YouTube video.
 
+**[Install from the Chrome Web Store →](https://chromewebstore.google.com/detail/ezscribe-for-youtube/elaojfkkpnapkdneobnlcnafbogalang)**
+
 **Website:** [EZScribe — AI transcription for audio and video](https://ezscribe.cc/)
 
 The extension reads captions already available on YouTube for free. If a video has no captions, you can continue with [EZScribe's YouTube transcription tool](https://ezscribe.cc/transcribe?mode=youtube).
